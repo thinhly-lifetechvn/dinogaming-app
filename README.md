@@ -6,4 +6,4 @@ This repository hosts the published builds of the DinoGaming client app. See the
      commit and sorts to the top of the Releases / Tags list (GitHub orders by
      the tagged commit's date). -->
 Last staging build: 20260704-1026 @ 2026-07-04 10:28:16
-Last production build: v0.1.46 @ 2026-07-03 23:19:35
+Last production build: v0.1.47 @ 2026-07-04 10:34:18
